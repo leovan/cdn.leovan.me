@@ -1,4 +1,4 @@
-用于网站的静态文件，采用 [Git LFS](https://git-lfs.github.com/) 进行管理。
+CDN site for [leovan.me](https://leovan.me)
 
-本作品采用 [署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议进行许可。
-
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue.svg)
+![Netlify Status](https://api.netlify.com/api/v1/badges/ea5e47eb-d756-4482-a190-f5eeb3d98512/deploy-status)
