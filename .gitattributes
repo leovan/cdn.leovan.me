@@ -2,3 +2,4 @@
 *.graffle filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 *.doc filter=lfs diff=lfs merge=lfs -text
+*.spk filter=lfs diff=lfs merge=lfs -text
